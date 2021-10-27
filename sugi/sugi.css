@@ -1,0 +1,44 @@
+#Me{
+    width: 900;
+    height: 600px;
+    margin: 0 auto;
+}
+
+
+
+.head{
+    height: 50px;
+    background-color: transparent;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.sidebar{
+    width: 11%;
+    float: left;
+    background-color: rgba(255, 255, 255, 0.774);
+    color: black;
+    height: 550px;
+}
+
+.main{
+    width: 85%;
+    float: right;
+    height: 550px;
+}
+
+
+div{
+    color: rgb(8, 248, 248);
+
+}
+
+
+
+
+
+
